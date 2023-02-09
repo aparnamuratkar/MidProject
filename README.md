@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MidProject_House_Pricing
 
 ## Scenario and Objective 
@@ -10,7 +10,8 @@
 
 
 ## Description of the dataset 
-	This dataset consists of information of around 21596 properties with its various features divided in total 21 columns and around 21596 rows.
+	This dataset consists of information of around 21596 properties with its various features divided in total 21 columns and
+	around 21596 rows.
 
 ## Data science concepts are used in this project
 
@@ -20,15 +21,9 @@
 	Dimensionality reduction
 
 
-# Appendix:
+# Reference:
 
 ## Data Source: 
 	https://www.kaggle.com/harlfoxem/housesalesprediction
 
 	Youtube Tutorials,Stackoverflow
-
-
-
-=======
-# MidProject
->>>>>>> e3154b6a3f0a8ffa68a8792e0b55f7b8419ccd8b
