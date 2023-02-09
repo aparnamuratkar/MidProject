@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MidProject_House_Pricing
 
 ## Scenario and Objective 
@@ -28,3 +29,6 @@
 
 
 
+=======
+# MidProject
+>>>>>>> e3154b6a3f0a8ffa68a8792e0b55f7b8419ccd8b
